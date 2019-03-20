@@ -1,0 +1,138 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: black;
+}
+
+.nav {
+  position: absolute;
+  height: 100vh;
+  width: 15vw;
+  left: 17%;
+  color: white;
+  background: rgba(0,0,0,.7);
+  text-align: center;
+  letter-spacing: 5px;
+  font-size: 2.5rem;
+}
+
+.nav h3{
+  margin-top: 95%;
+}
+
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  height: 100vh;
+  width: 100vw;
+}
+
+.box{
+
+  height: 33vh;
+  width: 25vw;
+}
+
+.box1 {
+  background:url(img/california.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 33vh;
+  width: 25vw;
+}
+
+.box2 {
+  background:url(img/florida.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 33vh;
+  width: 25vw;
+}
+
+.box3 {
+  background:url(img/ny.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 33vh;
+  width: 25vw;
+}
+
+.box4 {
+  background:url(img/texas.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 33vh;
+  width: 25vw;
+}
+
+.box5 {
+  background:url(img/wash.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 33vh;
+  width: 25vw;
+}
+
+.box6 {
+  background:url(img/hawaii.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 33vh;
+  width: 25vw;
+}
+
+.box7 {
+  background:url(img/nc.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 33vh;
+  width: 25vw;
+}
+
+.box8 {
+  background:url(img/michigan.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 33vh;
+  width: 25vw;
+}
+
+.box9 {
+  background:url(img/virginia.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 33vh;
+  width: 25vw;
+}
+
+.box10 {
+  background:url(img/colorado.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 33vh;
+  width: 25vw;
+}
+
+.box11 {
+  background:url(img/arizona.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 33vh;
+  width: 25vw;
+}
+
+.box12 {
+  background:url(img/mass.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 33vh;
+  width: 25vw;
+}
+
+.box:hover {
+  transform: scale(1.1);
+}

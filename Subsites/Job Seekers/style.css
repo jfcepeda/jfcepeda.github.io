@@ -1,0 +1,49 @@
+.main-heading {
+    font-size: 5rem;
+    margin-top: 10rem;
+}
+
+.nav-wrapper {
+    padding: 0 3rem;
+}
+
+.explore {
+    padding: 4rem;
+}
+
+
+.row .btn {
+    margin-top: 3rem;
+    font-size: 1.2rem;
+}
+
+.contact {
+    background: rgba(149, 117, 205, 0.61);
+    background-position: center;
+    background-size: cover; 
+    height: 70vh;
+}
+
+.bottom-img {
+    background: url('bg-bottom.png');
+}
+
+.bottom {
+    font-size: 4rem;
+    font-weight: bold;
+    padding-top: 12rem;
+    padding-bottom: 2.5rem;
+    color: white;
+    text-shadow: 2px 2px 8px #070606;
+}
+
+.contact-area {
+    margin: 0rem 35rem;
+}
+
+.row-2 {
+    margin-top: 2.5rem;
+    width: 80%;
+    display: inline-flex;
+}
+
